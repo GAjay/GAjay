@@ -2,7 +2,6 @@
 
 <p align="left">
   <samp>
-    <a href="https://maalik.dev" target='_blank'>website & portfolio</a> .
     <a href="https://theplainscript.medium.com/" target='_blank'>blog</a> 
   </samp>
 </p>

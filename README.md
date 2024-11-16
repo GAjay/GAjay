@@ -1,4 +1,4 @@
-<h1 class="flex"><img src="./wave.gif" width="32" />&nbsp;Hi, I'm Maalik</h1>
+<h1 class="flex"><img src="./wave.gif" width="32" />&nbsp;Hi, I'm Ajay Kumar Maheshwari</h1>
 
 <p align="left">
   <samp>
@@ -24,5 +24,5 @@ I'm Aja Kumar Maheshwari, a seasoned full-stack software engineer with over four
 
 #### If you're seeking a full-stack developer with a strong emphasis on front-end excellence, let's connect.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Malik%20Bagwala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaymaheshwari24/)
+[![Linkedin Badge](https://img.shields.io/badge/-AjayMaheshwari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaymaheshwari24/)
 <br />

@@ -4,14 +4,14 @@
 <p align="center">
   <img src="./wave.gif" width="40" alt="wave" />
   <br />
-  <strong>Lead Experience Engineer</strong> · Full Stack · India
+  <strong>11+ Years</strong> · Lead Experience Engineer · Full Stack · India
   <br />
   <a href="https://github.com/GAjay"><img src="https://img.shields.io/badge/Open%20to%20collaboration-181717?style=flat-square&logo=github" alt="Open to collaboration" /></a>
   <img src="https://komarev.com/ghpvc/?username=GAjay&style=flat-square&color=0e76a8" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=Building+design+systems+%26+headless+commerce;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Django+%C2%B7+Python+%C2%B7+GraphQL+%C2%B7+DevOps;Publicis+Sapient+%7C+ex%E2%80%91Vymo" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=720&lines=11%2B+years+shipping+at+scale;Lead+Experience+Engineer+%40+Publicis+Sapient;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Design+systems+%C2%B7+headless+commerce+%C2%B7+DevOps" alt="Typing intro" />
 </p>
 
 <!-- Hero: photo + bio -->
@@ -24,17 +24,18 @@
 
 ### About
 
-Full-stack engineer with **4+ years** shipping production apps—from **React / Next.js** UIs to **Node**, **Django**, and **GraphQL** APIs. I focus on **UX**, **performance**, and **teams that ship**.
+Full-stack engineer with **11+ years** of experience delivering enterprise and consumer products—from **React / Next.js** front ends to **Node**, **Django**, and **GraphQL** platforms. I lead technical delivery, mentor teams, and care about **UX**, **performance**, and **long-term architecture**.
 
 **Now:** Lead Experience Engineer @ **Publicis Sapient**  
-**Before:** **Vymo**, **RazrCorp**
+**Previously:** **Vymo**, **RazrCorp**, and product teams across the stack
 
 | | |
 | --- | --- |
-| 💼 | Enterprise & product delivery |
+| 📅 | **11+ years** in software engineering |
+| 💼 | Enterprise platforms, client delivery & product ownership |
 | 🧩 | Design systems · **AsriUI** · Shopify Hydrogen |
-| 🤝 | Open source · React · Django · dev tooling |
-| 💬 | React, Docker, CI/CD, GraphQL |
+| 🤝 | Open source · React · Django · developer tooling |
+| 💬 | Architecture, React, Docker, CI/CD, GraphQL |
 
 <p>
   <a href="https://www.linkedin.com/in/ajaymaheshwari24/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -53,7 +54,20 @@ Full-stack engineer with **4+ years** shipping production apps—from **React / 
   <img src="https://img.shields.io/github/stars/GAjay?style=for-the-badge&logo=github&label=Stars&color=FFD700" alt="Stars" />
   <img src="https://img.shields.io/github/public-repos/GAjay?style=for-the-badge&logo=github&label=Public%20Repos&color=181717" alt="Public repos" />
   <img src="https://img.shields.io/github/commit-activity/y/GAjay?style=for-the-badge&logo=github&label=Commits%2Fyear&color=238636" alt="Commit activity" />
+  <img src="https://img.shields.io/badge/Experience-11%2B_Years-0e76a8?style=for-the-badge" alt="11+ years experience" />
 </p>
+
+---
+
+## 💼 Career snapshot
+
+| Period | Role | Organization |
+| :--- | :--- | :--- |
+| Present | Lead Experience Engineer | **Publicis Sapient** |
+| Earlier | Software Engineer (full stack) | **Vymo** |
+| Earlier | Engineering | **RazrCorp** |
+
+*Eleven years spanning front-end leadership, API design, DevOps, and shipping software that lasts.*
 
 ---
 
@@ -127,7 +141,7 @@ Full-stack engineer with **4+ years** shipping production apps—from **React / 
 ---
 
 <p align="center">
-  <strong>Looking for a full-stack partner who cares about craft and delivery?</strong><br />
+  <strong>Need a senior full-stack engineer with 11+ years of delivery experience?</strong><br />
   <a href="https://www.linkedin.com/in/ajaymaheshwari24/">Connect on LinkedIn</a> ·
   <a href="https://theplainscript.medium.com/">Read the blog</a>
 </p>
